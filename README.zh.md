@@ -4,7 +4,7 @@
 
 **`size-decision-general`** 技术报告——一个小体积、非生成式、可校准的决策模型。权重地址：
 <https://huggingface.co/sizeai/size-decision-general> ·
-<https://www.modelscope.cn/models/sizeai/size-decision-general>
+<https://www.modelscope.cn/models/eastliu/size-decision-general>
 
 ---
 

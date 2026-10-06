@@ -38,5 +38,5 @@ references:
     authors:
       - name: "sizeai"
     year: 2026
-    url: "https://www.modelscope.cn/models/sizeai/size-decision-general"
+    url: "https://www.modelscope.cn/models/eastliu/size-decision-general"
     notes: "Model weights, ModelScope"

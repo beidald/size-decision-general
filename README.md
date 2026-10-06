@@ -5,7 +5,7 @@
 Technical report for **`size-decision-general`**, a small, non-generative,
 calibrated decision model. Model weights:
 <https://huggingface.co/sizeai/size-decision-general> ·
-<https://www.modelscope.cn/models/sizeai/size-decision-general>
+<https://www.modelscope.cn/models/eastliu/size-decision-general>
 
 ---
 
