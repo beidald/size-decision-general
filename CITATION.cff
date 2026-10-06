@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use the size-decision-general model or build on this report, please cite it as below."
+title: "A calibrated encoder classifier as the cost floor for production decisions"
+abstract: >-
+  Technical report for size-decision-general, a 307M-parameter non-autoregressive
+  encoder classifier that answers option-list questions in a single forward pass
+  and returns a calibrated probability distribution (ECE under 0.06 on three
+  public classification benchmarks). It is positioned as the cheap, deterministic
+  high-throughput layer beneath generative decoders, where calibrated confidence
+  enables gating on probability rather than only on the argmax.
+type: report
+authors:
+  - name: "sizeai"
+    alias: "beidald"
+    website: "https://github.com/beidald"
+date-released: "2026-10-06"
+url: "https://github.com/beidald/size-decision-general"
+repository-code: "https://github.com/beidald/size-decision-general"
+license: Apache-2.0
+keywords:
+  - text-classification
+  - calibration
+  - decision-making
+  - multiple-choice
+  - non-autoregressive
+  - encoder
+  - cost-efficiency
+references:
+  - type: software
+    title: "size-decision-general"
+    authors:
+      - name: "sizeai"
+    year: 2026
+    url: "https://huggingface.co/sizeai/size-decision-general"
+    notes: "Model weights, Hugging Face"
+  - type: software
+    title: "size-decision-general (ModelScope)"
+    authors:
+      - name: "sizeai"
+    year: 2026
+    url: "https://www.modelscope.cn/models/sizeai/size-decision-general"
+    notes: "Model weights, ModelScope"
